@@ -44,26 +44,6 @@ Loving it? Show your support by giving this project a star!
 In the tutorial, we build a CRUD REST API from scratch using .NET 6.
 As you would expect, the backend system supports Creating, Reading, Updating and Deleting breakfasts.
 
-# Service Architecture
-
-<div align="center">
-
-<img src="assets/BackendServiceArchitecture.png" alt="drawing" width="700px"/>
-
-</div>
-
-# Technologies
-
-
-# Architecture
-
-
-# API Definition
-
-
-## Create Breakfast
-
-### Create Breakfast Request
 
 ```js
 POST /breakfasts
