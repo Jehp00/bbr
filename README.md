@@ -9,29 +9,6 @@
 
 </div>
 
-- [Give it a star ⭐!](#give-it-a-star-)
-- [Overview](#overview)
-- [Service Architecture](#service-architecture)
-- [Technologies](#technologies)
-- [Architecture](#architecture)
-- [Usage](#usage)
-- [API Definition](#api-definition)
-  - [Create Breakfast](#create-breakfast)
-    - [Create Breakfast Request](#create-breakfast-request)
-    - [Create Breakfast Response](#create-breakfast-response)
-  - [Get Breakfast](#get-breakfast)
-    - [Get Breakfast Request](#get-breakfast-request)
-    - [Get Breakfast Response](#get-breakfast-response)
-  - [Update Breakfast](#update-breakfast)
-    - [Update Breakfast Request](#update-breakfast-request)
-    - [Update Breakfast Response](#update-breakfast-response)
-  - [Delete Breakfast](#delete-breakfast)
-    - [Delete Breakfast Request](#delete-breakfast-request)
-    - [Delete Breakfast Response](#delete-breakfast-response)
-- [Credits](#credits)
-- [VSCode Extensions](#vscode-extensions)
-- [Disclaimer](#disclaimer)
-- [License](#license)
 
 ---
 
