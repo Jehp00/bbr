@@ -207,20 +207,3 @@ DELETE /breakfasts/{{id}}
 204 No Content
 ```
 
-# Credits
-
-- [ErrorOr](https://github.com/amantinband/error-or) - A simple, fluent discriminated union of an error or a result.
-
-# VSCode Extensions
-
-- [VSCode Rest Client](https://github.com/Huachao/vscode-restclient) - REST Client allows you to send HTTP request and view the response in Visual Studio Code directly.
-
-- [VSCode Markdown Preview Enhanced](https://github.com/shd101wyy/vscode-markdown-preview-enhanced) - Markdown Preview Enhanced is an extension that provides you with many useful functionalities for previewing markdown files.
-
-# Disclaimer
-
-This is an educational project. The source code is licensed under the MIT license.
-
-# License
-
-This project is licensed under the terms of the [MIT](https://github.com/amantinband/buber-breakfast/blob/main/LICENSE) license.
