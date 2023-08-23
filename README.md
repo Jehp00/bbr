@@ -1,27 +1,3 @@
-<div align="center">
-
-
- [![GitHub Stars](https://img.shields.io/github/stars/amantinband/buber-breakfast.svg)](https://github.com/amantinband/buber-breakfast/stargazers) [![GitHub license](https://img.shields.io/github/license/amantinband/buber-breakfast)](https://github.com/amantinband/buber-breakfast/blob/main/LICENSE)
-
----
-
-### This is the source code of the [CRUD REST API from scratch using .NET 6 tutorial](https://youtu.be/PmDJIooZjBE)
-
-</div>
-
-
----
-
-# Give it a star ⭐!
-
-Loving it? Show your support by giving this project a star!
-
-# Overview
-
-In the tutorial, we build a CRUD REST API from scratch using .NET 6.
-As you would expect, the backend system supports Creating, Reading, Updating and Deleting breakfasts.
-
-
 ```js
 POST /breakfasts
 ```
